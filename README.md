@@ -6,7 +6,7 @@
 
 >vue+vue4-router+axios+vuex+webpack+ES6+babel+vue-loader+flex+node+npm
 
-[我的博客](http://blog.csdn.net/guodongxiaren)  
+[百度](http://www.baidu.com)  
 
 ## Build Setup
 
